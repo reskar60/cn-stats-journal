@@ -1,2 +1,14 @@
 # cn-stats-journal
-HTML page archive and documentation
+
+页面发布与维护记录
+
+此仓库用于存放发布任务生成的静态页面，方便后续检查和维护。
+
+## 页面目录
+
+- 每个 HTML 文件代表一个页面
+- README 仅作为仓库说明
+
+## 任务说明
+
+页面会按发布任务逐步生成，仓库仅保存最终文件。
